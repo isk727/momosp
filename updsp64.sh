@@ -1,5 +1,5 @@
 #!/bin/bash
-base='base='/usr/share/momo-2022.4.1_raspberry-pi-os_armv8/html/'
+base='/usr/share/momo-2022.4.1_raspberry-pi-os_armv8/html/'
 git='https://raw.githubusercontent.com/isk727/momosp/main/'
 today=`date "+%Y%m%d%H%M%S"`
 wget ${git}stylev.css
