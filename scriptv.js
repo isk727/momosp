@@ -12,4 +12,4 @@ window.setTimeout(function() {
   connect();
   video.className = "rotate90";
   $("#sound").css('visibility', 'visible');
-}, 500);
+}, 300);
