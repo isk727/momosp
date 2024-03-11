@@ -16,7 +16,7 @@
   justify-content: right; /* 20240304 justify-content: center; */
   align-items: center;
   position: absolute;
-  left: 6vw; top: 64vw; /* 82vw; *//* 20240304 left: 0; top: 20%; *//* 20240309 left: 0; top: 0%; */
+  left: 8vw; top: 64vw; /* 82vw; *//* 20240304 left: 0; top: 20%; *//* 20240309 left: 0; top: 0%; */
   width: 95%; height: 15%; /* 20240304 width: 100%; height: 90%; */ /* 20240309 width: 100%; height: 20%; */
   overflow: visible;
   z-index: 12345;
@@ -34,3 +34,4 @@
   width: 64px; /* 48px */
   height: 64px; /* 48px */
 }
+
